@@ -1,4 +1,4 @@
-# GFK_Forecasting
+# taxi_orders_Forecasting
 Forecaste the hourly booking of a taxi company
 
 I have done the forecasting task using 3 different approaches
