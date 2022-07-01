@@ -1,7 +1,7 @@
 # taxi_orders_Forecasting
 Forecaste the hourly booking of a taxi company
 
-I have done the forecasting task using 3 different approaches
+I have done the forecasting problem using 3 different approaches
 1. Using ARIMA model
 2. Using Machine Learning Models (Gradient Boost and XG Boost)
 3. Using Deep Learning (LSTM)
